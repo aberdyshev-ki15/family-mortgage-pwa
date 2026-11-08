@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "Калькулятор семейной ипотеки",
+  "short_name": "Семейная ипотека",
+  "description": "Автономный калькулятор семейной ипотеки для iPhone",
+  "lang": "ru-RU",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#EEF2F1",
+  "theme_color": "#18282C",
+  "icons": [
+    {"src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any"}
+  ]
+}
